@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 13312, guid: 0000000000000000e000000000000000, type: 0}
   m_Name: Lineado-3
   m_EditorClassIdentifier: 
-  m_Sprite: {fileID: 21300000, guid: 39010110ffeb8984fa492b95d047d7a0, type: 3}
+  m_Sprite: {fileID: 21300000, guid: d0e7270ffa847d941b432a63679bf2b6, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_Transform:
     e00: 1

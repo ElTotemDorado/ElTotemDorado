@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 13312, guid: 0000000000000000e000000000000000, type: 0}
   m_Name: Vejetacion
   m_EditorClassIdentifier: 
-  m_Sprite: {fileID: 21300000, guid: a90c47d48cdf995438fb66dc8a803e5d, type: 3}
+  m_Sprite: {fileID: 21300000, guid: f384f4ab9c2fb4e4ea764d7146b8bc55, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_Transform:
     e00: 1
