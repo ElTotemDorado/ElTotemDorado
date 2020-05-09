@@ -4,12 +4,11 @@
 TagManager:
   serializedVersion: 2
   tags:
-  - Arrow
   - GM
   - Coins
+  - pinchos
   - Luigi
   - "Ara\xF1a"
-  - pinchos
   layers:
   - Default
   - TransparentFX
@@ -21,7 +20,7 @@ TagManager:
   - 
   - Platforms
   - Arrow
-  - ChekPoints
+  - Checkpoint
   - MonedasCollider
   - Player
   - Enemys
@@ -47,3 +46,4 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
+
