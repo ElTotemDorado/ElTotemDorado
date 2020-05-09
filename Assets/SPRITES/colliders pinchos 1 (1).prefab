@@ -1,0 +1,81 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &2545393043871314250
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2545393043871314248}
+  - component: {fileID: 2545393043871314251}
+  m_Layer: 0
+  m_Name: colliders pinchos 1 (1)
+  m_TagString: pinchos
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2545393043871314248
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2545393043871314250}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 8.200073, y: 0.059999943, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!60 &2545393043871314251
+PolygonCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2545393043871314250}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0, y: 0}
+    oldSize: {x: 0, y: 0}
+    newSize: {x: 0, y: 0}
+    adaptiveTilingThreshold: 0
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  m_Points:
+    m_Paths:
+    - - {x: 0.94921875, y: -0.18193984}
+      - {x: 0.5229492, y: 0.03295183}
+      - {x: 0.3116455, y: 1.5581475}
+      - {x: -0.0025634766, y: 1.9399539}
+      - {x: -0.22558594, y: 1.559725}
+      - {x: -0.40686035, y: 1.8462639}
+      - {x: -0.5371094, y: 0.109169245}
+      - {x: -0.8588867, y: 0.65345097}
+      - {x: -1.0977783, y: 0.8665564}
+      - {x: -1.1472168, y: 0.6366168}
+      - {x: -1.4229736, y: 0.7321489}
+      - {x: -1.4014893, y: -0.76019406}
+      - {x: -0.7340088, y: -0.7886126}
+      - {x: -0.4645996, y: -0.8244853}
+      - {x: 0.6109619, y: -0.8201287}
+      - {x: 2.2315674, y: -0.69509673}
+      - {x: 2.0516357, y: 0.1203208}
+      - {x: 1.9057617, y: 0.7258085}
+      - {x: 1.8035889, y: 0.38221598}
+      - {x: 1.5786133, y: 0.9357383}
+      - {x: 1.4338379, y: 0.733114}
+      - {x: 1.2546387, y: 0.64091635}
+      - {x: 1.048706, y: 0.8297949}

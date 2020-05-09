@@ -3,7 +3,12 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - GM
+  - Coins
+  - pinchos
+  - Luigi
+  - "Ara\xF1a"
   layers:
   - Default
   - TransparentFX
@@ -13,14 +18,14 @@ TagManager:
   - UI
   - 
   - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
+  - Platforms
+  - Arrow
+  - Checkpoint
+  - MonedasCollider
+  - Player
+  - Enemys
+  - "CollidersAra\xF1a"
+  - pinchos
   - 
   - 
   - 
